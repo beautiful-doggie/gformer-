@@ -38,6 +38,7 @@
 
 ```bash
 python Main.py --data movielens --reg 1e-4 --ssl_reg 1 --gcn 3 --ctra 1e-3 --b2 1 --pnn 1
+```
 
 ##小组
 组员：鲁子函，21311120 赵映涵，21305442
