@@ -20,7 +20,8 @@
 ### 依赖项
 
 - Python 3.6或以上版本
-- 必要的Python库（在`requirements.txt`中列出）
+- 必要的Python库
+- cuda
 
 ### 运行项目
 
